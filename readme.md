@@ -12,7 +12,7 @@
 ## Для развёртывания приложения необходимо:
 
 * установить docker: https://www.docker.com/
-* клонировать репозиторий: git clone 
+* клонировать репозиторий: git clone https://github.com/SunInRags/MessageSender.git
 * в корневой папке выполнить команду `docker-compose up -d --build`
 * сервер должен быть доступен на https://localhost:8000
 
