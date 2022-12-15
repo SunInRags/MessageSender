@@ -13,6 +13,7 @@
 
 * установить docker: https://www.docker.com/
 * клонировать репозиторий: git clone https://github.com/SunInRags/MessageSender.git
+* в настройках API sender/sender_api_properties.py вставить токен JWT вместо INSERT TOKEN HERE (сохранить кавычки)
 * в корневой папке выполнить команду `docker-compose up -d --build`
 * сервер должен быть доступен на https://localhost:8000
 
